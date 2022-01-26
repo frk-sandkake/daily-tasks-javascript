@@ -57,3 +57,21 @@ console.log(introduction);
 const introduction2 = `Hello, my name is ${firstName}`;
 
 console.log(introduction2);
+
+
+// Question 8.
+
+const title = "Big Technical Event";
+
+const whatToHave = "good time";
+
+const welcome = "Welcome! \n\n" +
+    "This " + title + " is starting today.\n\n" +
+    "Have a " + whatToHave + "!";
+
+console.log(welcome);
+
+// ***************************************************
+
+// Question 1
+
